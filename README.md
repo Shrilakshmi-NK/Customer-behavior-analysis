@@ -136,8 +136,6 @@ Customer-Shopping-Behavior-Analysis/
 ├── Customer_Shopping_Dataset.csv
 ├── Data_Cleaning.ipynb
 ├── SQL_Analysis.sql
-├── PowerBI_Dashboard.pbix
-├── Dashboard_Screenshots/
 └── README.md
 ```
 
